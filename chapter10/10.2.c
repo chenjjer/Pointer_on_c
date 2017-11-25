@@ -29,5 +29,5 @@ struct Lease {
 	float Mon_pay;
 	char Name_of_Blank;
 };
-  }
+  };
 };
