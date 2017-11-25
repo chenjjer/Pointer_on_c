@@ -1,0 +1,7 @@
+#include <string.h>
+#include <stdio.h> 
+
+void
+decrypt(char *data, char const *key)
+{
+}
